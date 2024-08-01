@@ -29,3 +29,7 @@ Keeps your storage system organized by removing redundant files.
 
 4. **Review Results:**
    - Once the cleanup is complete, check the results to see how much space has been freed.
+
+## Reporting Bugs
+
+If you encounter any issues or bugs while using Nexus Tool, please report them on our [GitHub Issues page](https://github.com/ByteLogNet/Nexus-Tool/issues). We appreciate your feedback and will work to resolve any issues as quickly as possible.
