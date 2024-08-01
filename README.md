@@ -33,3 +33,7 @@ Keeps your storage system organized by removing redundant files.
 ## 🐛Reporting Bugs
 
 If you encounter any issues or bugs while using Nexus Tool, please report them on our [GitHub Issues page](https://github.com/ByteLogNet/Nexus-Tool/issues). We appreciate your feedback and will work to resolve any issues as quickly as possible.
+
+## 📄 License
+
+Nexus Tool is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
