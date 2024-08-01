@@ -1,4 +1,5 @@
 # Nexus Tool
+![Screenshot of Nexus Tool](images/nexus.jpg)
 
 # Description
 Nexus Tool is a powerful utility designed to efficiently clean up unnecessary and temporary files on Windows systems. By removing redundant files such as temporary internet files, system caches, and old logs, Nexus helps free up valuable disk space and enhances your computer’s performance. With its intuitive and user-friendly interface, Nexus makes it easy to scan your system for clutter and perform cleanups, ensuring a more organized and optimized storage system.
@@ -15,10 +16,6 @@ Helps improve your computer’s performance by eliminating unnecessary clutter.
 
 * Organized Storage:
 Keeps your storage system organized by removing redundant files.
-
-# Nexus Tool
-
-![Screenshot of Nexus Tool](images/nexus.jpg)
 
 ## Usage
 
