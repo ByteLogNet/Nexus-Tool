@@ -13,5 +13,7 @@ Helps improve your computer’s performance by eliminating unnecessary clutter.
 Organized Storage:
 Keeps your storage system organized by removing redundant files.
 
+# Nexus Tool
+
 ![Screenshot of Nexus Tool](images/nexus.jpg)
 
