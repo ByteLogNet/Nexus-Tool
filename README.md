@@ -18,4 +18,17 @@ Helps improve your computer’s performance by eliminating unnecessary clutter.
 Keeps your storage system organized by removing redundant files.
 
 ## Usage
+1. **Open Nexus Tool:**
+   - Launch the application from your desktop or Start menu.
 
+2. **Select Areas to Clean:**
+   - In the main interface, choose from various cleanup options, such as temporary files, system cache, or specific folders.
+
+3. **Start the Cleanup Process:**
+   - Click the "Clean" button to begin scanning and removing unnecessary files.
+
+4. **Review Results:**
+   - Once the cleanup is complete, check the results to see how much space has been freed and what files have been removed.
+
+5. **Adjust Settings (Optional):**
+   - If needed, adjust the settings to customize which files and areas are targeted during the cleanup.
