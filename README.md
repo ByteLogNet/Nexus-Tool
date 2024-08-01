@@ -20,3 +20,5 @@ Keeps your storage system organized by removing redundant files.
 
 ![Screenshot of Nexus Tool](images/nexus.jpg)
 
+## Usage
+
